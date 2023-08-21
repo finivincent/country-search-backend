@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+
+# Database
+db.sqlite3
+
+# Compiled Python files
+*.pyc
+
+# Log files
+*.log
+
+# Configuration files with sensitive information
+settings_local.py
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.pycproject
+
+# User uploads
+media/
+
+# Compiled assets
+/static/
+
+# Cache directories
+__pycache__/
+
+# Temporary files
+*.tmp
